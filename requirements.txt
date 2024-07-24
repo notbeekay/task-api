@@ -1,3 +1,4 @@
 # name of packages we use in the api
 fastapi
 uvicorn[standard]
+pandas
